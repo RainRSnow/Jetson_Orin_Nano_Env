@@ -33,9 +33,9 @@ cd "$WHEEL_CACHE"
 
 # Wheel filenames
 
-TORCH_WHL=torch-2.3.0-cp310-cp310-linux_aarch64
-TORCHAUDIO_WHL=torchaudio-2.3.0+952ea74-cp310-cp310-linux_aarch64
-TORCHVISION_WHL=torchvision-0.18.0a0+6043bc2-cp310-cp310-linux_aarch64
+TORCH_WHL=torch-2.3.0-cp310-cp310-linux_aarch64.whl
+TORCHAUDIO_WHL=torchaudio-2.3.0+952ea74-cp310-cp310-linux_aarch64.whl
+TORCHVISION_WHL=torchvision-0.18.0a0+6043bc2-cp310-cp310-linux_aarch64.whl
 
 # Clean cache if requested
 if $CLEAN_CACHE; then
