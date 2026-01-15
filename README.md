@@ -51,7 +51,6 @@ Note: Some components (OpenCV with CUDA, VisionWorks, etc.) may require custom b
 - JetsonHacks (collection of scripts & repos): [jetsonhacks on GitHub](https://github.com/jetsonhacks?tab=repositories)
 - Jetson Orin setup scripts (JetsonHacks): [jetsonhacks/jetson-orin-setup](https://github.com/jetsonhacks/jetson-orin-setup)
 - Pre-built Jetson Python wheels (community): [Jetson AI Lab PyPI index](https://pypi.jetson-ai-lab.io/)
-- (Local/internal) Zhao's Jetson repo (reference in original notes): csv:/home/zhao/git/jetson.git — adapt to your accessible repo URL or mirror if needed.
 
 ## Environment setup (recommended)
 Jetson deployments often require JetPack-specific packages or builds. Before installing additional software, apply a basic setup. Replace any internal clone URLs with the correct remote if required.
